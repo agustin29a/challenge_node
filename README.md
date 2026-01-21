@@ -28,5 +28,8 @@ estructura del proyecto mediante los siguientes objetivos.
 
 4. Garantizá una buena cobertura de tests. Actualizá las pruebas existentes para reflejar los cambios en la lógica de negocio e incorporá nuevos casos que validen el manejo de errores. Alcanzá la mayor cobertura posible.
 
+## LINK HISTORIAL CHAT
+https://claude.ai/share/e6560a35-98ab-414f-9b9e-64dbc90a7302
+
 
 
